@@ -10,4 +10,5 @@ This virus takes all required powers without requesting it = bypass windows
 You cannot run this virus in VMware
 -----------------------------------
 ```sh
-                 MadeByWizNon
+                               MadeByWizNon
+ 
