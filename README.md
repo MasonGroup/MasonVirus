@@ -11,3 +11,4 @@ You cannot run this virus in VMware
 -----------------------------------
 ```sh
 "MadeByWizNon"
+-------------
